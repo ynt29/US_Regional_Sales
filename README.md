@@ -1,4 +1,4 @@
-# US_Regional_Sales
+# US Regional Sales dashboard
 
 ---------------------------------------------------
 ### Table of Contents
